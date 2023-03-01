@@ -10,3 +10,7 @@ let person = {
 };
 
 person.greet(); // Output: "Hello, my name is John Doe"
+
+
+
+finish
